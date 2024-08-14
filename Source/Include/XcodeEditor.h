@@ -37,3 +37,6 @@ FOUNDATION_EXPORT const unsigned char XcodeEditorVersionString[];
 #import "XCBuildShellScript.h"
 #import "XCBuildShellScriptDefinition.h"
 #import "XCVersionGroup.h"
+
+#import "NSString+RemoveEmoji.h"
+
